@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "brooks-cooks": {
+      "hosting": {
+        "ng-brooks-cooks": [
+          "brooks-cooks"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "brooks-cooks"
+  }
+}
